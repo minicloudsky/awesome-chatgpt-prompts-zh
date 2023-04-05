@@ -1,12 +1,9 @@
 # 🧠ChatGPT 中文调教指南
 
-![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.awesome-chatgpt-prompts-zh)
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
 官网是 https://ai.com/
-
-[国内中文版](https://chat.plexpt.com/login?inviter=1)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
@@ -20,10 +17,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 </div>
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 ------
 
 ## 图片实例
